@@ -1,6 +1,6 @@
 
 import React from "react";
-import { formatDate } from "./Component";
+import { formatDate } from "./formatDate";
 
 function Post({ author, date, content, image }) {
   return (
